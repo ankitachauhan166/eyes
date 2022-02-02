@@ -1,6 +1,9 @@
 # Eye Motion Excercise
 ## Description
-In this exercise we have used css to make divs look like eyes. The position of mouse pointer is calculated and based on it, the position of divs which represents eye balls is changed and this looks like the eyes are following you. 
+In this exercise we have used css to make divs look like eyes. The position of mouse pointer is calculated and based on it, the position of divs which represents eye balls is changed and this looks like the eyes are following you.
+
+<a href="https://ankitachauhan166.github.io/eyes/">Eyes Motion Demo</a>
+
 ## How to run
 <ul>
   <li>fork the repo to your github account</li>
